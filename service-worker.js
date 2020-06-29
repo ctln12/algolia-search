@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/algolia-search/precache-manifest.df8499ed8287c368fb531c6e0019c742.js"
+  "/algolia-search/precache-manifest.9585232b090e9e52c6ba36a24a24b5b5.js"
 );
 
 self.addEventListener('message', (event) => {
