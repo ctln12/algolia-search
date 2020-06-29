@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/algolia-search/static/css/main.abaf2cf2.chunk.css",
-    "main.js": "/algolia-search/static/js/main.9b088172.chunk.js",
-    "main.js.map": "/algolia-search/static/js/main.9b088172.chunk.js.map",
+    "main.css": "/algolia-search/static/css/main.8736d1f5.chunk.css",
+    "main.js": "/algolia-search/static/js/main.2bf7ede8.chunk.js",
+    "main.js.map": "/algolia-search/static/js/main.2bf7ede8.chunk.js.map",
     "runtime-main.js": "/algolia-search/static/js/runtime-main.7e35dc0c.js",
     "runtime-main.js.map": "/algolia-search/static/js/runtime-main.7e35dc0c.js.map",
     "static/js/2.7ed2fb71.chunk.js": "/algolia-search/static/js/2.7ed2fb71.chunk.js",
     "static/js/2.7ed2fb71.chunk.js.map": "/algolia-search/static/js/2.7ed2fb71.chunk.js.map",
     "index.html": "/algolia-search/index.html",
-    "precache-manifest.2638746df60b1fc089262ef81cfd266a.js": "/algolia-search/precache-manifest.2638746df60b1fc089262ef81cfd266a.js",
+    "precache-manifest.dcc97ad4769882316c8f41ba08f4f0b5.js": "/algolia-search/precache-manifest.dcc97ad4769882316c8f41ba08f4f0b5.js",
     "service-worker.js": "/algolia-search/service-worker.js",
-    "static/css/main.abaf2cf2.chunk.css.map": "/algolia-search/static/css/main.abaf2cf2.chunk.css.map",
+    "static/css/main.8736d1f5.chunk.css.map": "/algolia-search/static/css/main.8736d1f5.chunk.css.map",
     "static/js/2.7ed2fb71.chunk.js.LICENSE.txt": "/algolia-search/static/js/2.7ed2fb71.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e35dc0c.js",
     "static/js/2.7ed2fb71.chunk.js",
-    "static/css/main.abaf2cf2.chunk.css",
-    "static/js/main.9b088172.chunk.js"
+    "static/css/main.8736d1f5.chunk.css",
+    "static/js/main.2bf7ede8.chunk.js"
   ]
 }
