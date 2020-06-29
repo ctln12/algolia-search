@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/algolia-search/static/css/main.5f361e03.chunk.css",
-    "main.js": "/algolia-search/static/js/main.8ba8e1e3.chunk.js",
-    "main.js.map": "/algolia-search/static/js/main.8ba8e1e3.chunk.js.map",
+    "main.css": "/algolia-search/static/css/main.a29b6333.chunk.css",
+    "main.js": "/algolia-search/static/js/main.76ae5ec8.chunk.js",
+    "main.js.map": "/algolia-search/static/js/main.76ae5ec8.chunk.js.map",
     "runtime-main.js": "/algolia-search/static/js/runtime-main.7e35dc0c.js",
     "runtime-main.js.map": "/algolia-search/static/js/runtime-main.7e35dc0c.js.map",
-    "static/js/2.5987ed9e.chunk.js": "/algolia-search/static/js/2.5987ed9e.chunk.js",
-    "static/js/2.5987ed9e.chunk.js.map": "/algolia-search/static/js/2.5987ed9e.chunk.js.map",
+    "static/js/2.ffbd747d.chunk.js": "/algolia-search/static/js/2.ffbd747d.chunk.js",
+    "static/js/2.ffbd747d.chunk.js.map": "/algolia-search/static/js/2.ffbd747d.chunk.js.map",
     "index.html": "/algolia-search/index.html",
-    "precache-manifest.9585232b090e9e52c6ba36a24a24b5b5.js": "/algolia-search/precache-manifest.9585232b090e9e52c6ba36a24a24b5b5.js",
+    "precache-manifest.4852bf2524958ece20e1e3c32f6ba88a.js": "/algolia-search/precache-manifest.4852bf2524958ece20e1e3c32f6ba88a.js",
     "service-worker.js": "/algolia-search/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/algolia-search/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5987ed9e.chunk.js.LICENSE.txt": "/algolia-search/static/js/2.5987ed9e.chunk.js.LICENSE.txt"
+    "static/css/main.a29b6333.chunk.css.map": "/algolia-search/static/css/main.a29b6333.chunk.css.map",
+    "static/js/2.ffbd747d.chunk.js.LICENSE.txt": "/algolia-search/static/js/2.ffbd747d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7e35dc0c.js",
-    "static/js/2.5987ed9e.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8ba8e1e3.chunk.js"
+    "static/js/2.ffbd747d.chunk.js",
+    "static/css/main.a29b6333.chunk.css",
+    "static/js/main.76ae5ec8.chunk.js"
   ]
 }
