@@ -25,7 +25,12 @@
   margin-bottom: 3rem;
 }
 
+.Hit-title a {
+  text-decoration: none;
+}
+
 .Hit-image {
+  align-self: flex-end;
   width: 100%;
 }
 

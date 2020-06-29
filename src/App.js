@@ -22,9 +22,14 @@ fetch(
 function App() {
 
   const Hit = ({ hit }) => {
+    const tedInfos = `${hit.speakers[0]} ${hit.name}`;
+    const tedPath = tedInfos.split(/\W/).filter(word => word !== "").join("_");
+    const tedVideoUrl = `https://www.ted.com/talks/${tedPath}`;
     return (
       <div className="Hit">
-        <h3 className="Hit-title">{hit.name}</h3>
+        <h3 className="Hit-title">
+          <a href={tedVideoUrl} target='_blank' rel="noopener noreferrer">{hit.name}</a>
+        </h3>
     <p className="Hit-speaker">{hit.speakers[0]}</p>
         <img className="Hit-image" src={hit.image_url} alt=""/>
       </div>
