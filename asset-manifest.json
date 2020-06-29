@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/algolia-search/static/css/main.abaf2cf2.chunk.css",
-    "main.js": "/algolia-search/static/js/main.90f9e99c.chunk.js",
-    "main.js.map": "/algolia-search/static/js/main.90f9e99c.chunk.js.map",
+    "main.js": "/algolia-search/static/js/main.9b088172.chunk.js",
+    "main.js.map": "/algolia-search/static/js/main.9b088172.chunk.js.map",
     "runtime-main.js": "/algolia-search/static/js/runtime-main.7e35dc0c.js",
     "runtime-main.js.map": "/algolia-search/static/js/runtime-main.7e35dc0c.js.map",
     "static/js/2.7ed2fb71.chunk.js": "/algolia-search/static/js/2.7ed2fb71.chunk.js",
     "static/js/2.7ed2fb71.chunk.js.map": "/algolia-search/static/js/2.7ed2fb71.chunk.js.map",
     "index.html": "/algolia-search/index.html",
-    "precache-manifest.b35893138081270d56e04fb328426725.js": "/algolia-search/precache-manifest.b35893138081270d56e04fb328426725.js",
+    "precache-manifest.2638746df60b1fc089262ef81cfd266a.js": "/algolia-search/precache-manifest.2638746df60b1fc089262ef81cfd266a.js",
     "service-worker.js": "/algolia-search/service-worker.js",
     "static/css/main.abaf2cf2.chunk.css.map": "/algolia-search/static/css/main.abaf2cf2.chunk.css.map",
     "static/js/2.7ed2fb71.chunk.js.LICENSE.txt": "/algolia-search/static/js/2.7ed2fb71.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e35dc0c.js",
     "static/js/2.7ed2fb71.chunk.js",
     "static/css/main.abaf2cf2.chunk.css",
-    "static/js/main.90f9e99c.chunk.js"
+    "static/js/main.9b088172.chunk.js"
   ]
 }
