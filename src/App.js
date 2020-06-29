@@ -1,5 +1,5 @@
 import algoliasearch from 'algoliasearch';
-import { InstantSearch, SearchBox, Hits, Pagination } from "react-instantsearch-dom";
+import { InstantSearch, SearchBox, Hits, Pagination, Panel, RefinementList, connectRefinementList } from "react-instantsearch-dom";
 import React from 'react';
 import './App.css';
 
@@ -34,15 +34,28 @@ function App() {
   return (
     <InstantSearch searchClient={searchClient} indexName="talks">
       <h1 id="title"><span>TED</span> Talks</h1>
-      <div id="searchbox">
-        {<SearchBox translations={{ placeholder: "Search talks..." }} />}
-      </div>
-      <div id="hits">
-        {<Hits hitComponent={Hit}/>}
-      </div>
-      <div id="pagination">
-        {/* Uncomment the following widget to add pagination */}
-        {<Pagination />}
+      <div className="content">
+        <div className="left-panel">
+          <div id="categories">
+            {<Panel header="tags">
+              <RefinementList
+                attribute="tags"
+              />
+            </Panel>}
+          </div>
+        </div>
+        <div className="right-panel">
+          <div id="searchbox">
+            {<SearchBox translations={{ placeholder: "Search talks..." }} />}
+          </div>
+          <div id="hits">
+            {<Hits hitComponent={Hit}/>}
+          </div>
+          <div id="pagination">
+            {/* Uncomment the following widget to add pagination */}
+            {<Pagination />}
+          </div>
+        </div>
       </div>
     </InstantSearch>
   );
