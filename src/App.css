@@ -1,8 +1,18 @@
 #title {
   text-align: center;
+  font-size: 4rem;
+  margin-bottom: 5rem;
+}
+
+#title span {
+  color: red;
 }
 
 #searchbox {
+  margin-bottom: 4rem;
+}
+
+#hits {
   margin-bottom: 2rem;
 }
 
