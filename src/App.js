@@ -1,5 +1,5 @@
 import algoliasearch from 'algoliasearch';
-import { InstantSearch, SearchBox, Hits, Pagination, Panel, RefinementList, connectRefinementList } from "react-instantsearch-dom";
+import { InstantSearch, SearchBox, Hits, Pagination, Panel, RefinementList } from "react-instantsearch-dom";
 import React from 'react';
 import './App.css';
 
@@ -52,7 +52,6 @@ function App() {
             {<Hits hitComponent={Hit}/>}
           </div>
           <div id="pagination">
-            {/* Uncomment the following widget to add pagination */}
             {<Pagination />}
           </div>
         </div>
