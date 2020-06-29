@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "014af117ce3a6debccacf052dea18be8",
+    "revision": "8e9d1fcb61c3b3f29c8d47faa29a987d",
     "url": "/algolia-search/index.html"
   },
   {
-    "revision": "e9f1d5f0e47d536bffd7",
-    "url": "/algolia-search/static/css/main.a553b2f3.chunk.css"
+    "revision": "c45d54a1848ab9ed219f",
+    "url": "/algolia-search/static/css/main.abaf2cf2.chunk.css"
   },
   {
     "revision": "b02eda374e8f1d3ce0b3",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/algolia-search/static/js/2.7ed2fb71.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9f1d5f0e47d536bffd7",
+    "revision": "c45d54a1848ab9ed219f",
     "url": "/algolia-search/static/js/main.90f9e99c.chunk.js"
   },
   {
