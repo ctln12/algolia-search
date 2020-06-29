@@ -22,9 +22,25 @@
 }
 
 #hits {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .Hit-image {
   width: 100%;
+}
+
+.ais-Pagination-link {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+.ais-Pagination-link--selected {
+  border: 1px solid red !important;
+  background-color: white !important;
+  color: red !important;
+}
+
+li.ais-Pagination-item--disabled span{
+  border: 1px solid #c4c8d8;
 }
